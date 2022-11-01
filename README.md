@@ -1,0 +1,2 @@
+# shree
+check prime
